@@ -10,6 +10,11 @@ import product9 from './assets/9.JPG';
 import product10 from './assets/10.JPG';
 import product11 from './assets/11.JPG';
 import product12 from './assets/12.JPG';
+import product13 from './assets/13.JPG';
+import product14 from './assets/14.JPG';
+import product15 from './assets/15.JPG';
+import product16 from './assets/16.JPG';
+
 
 
 
@@ -85,6 +90,30 @@ export const PRODUCTS = [
         productName: "Sapu Kecil",
         price: 0,
         productImage: product12
+    },
+    {
+        id: 13,
+        productName: "Alat buat Plakban",
+        price: 0,
+        productImage: product13
+    },
+    {
+        id: 14,
+        productName: "Stander HP (Wireless Charging)",
+        price: 0,
+        productImage: product14
+    },
+    {
+        id: 15,
+        productName: "Rice Cooker",
+        price: 0,
+        productImage: product15
+    },
+    {
+        id: 16,
+        productName: "Water Cooker",
+        price: 0,
+        productImage: product16
     }
 
 
